@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ThomasRettig
 - 👀 I’m interested in graphic design, typography, and music.
-- 🌱 I’m currently learning *CSS*, *HTML*, and *Python*, all of different proficiency. I plan to learn Javascript soon.
+- 🌱 I’m currently learning *CSS*, *HTML*, and *Python*, all of different proficiencies. I plan to learn Javascript soon.
 - 📫 thomas dot rettig dot 11 [at] gmail.com
