@@ -1,1 +1,1 @@
-- :bowtie: Hi, I’m Thomas!
+:bowtie: Hi, I’m Thomas!
