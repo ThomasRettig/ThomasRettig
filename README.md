@@ -1,6 +1,4 @@
-I make _websites_ that are
-
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+I'm a front-end developer who loves making websites.
 
 I love typography, design, and music. :octocat: Get in touch! thomas.rettig.11@gmail.com
 ### My Github Stats
