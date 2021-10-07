@@ -1,4 +1,4 @@
-I'm a front-end developer who loves making websites.
+I'm a front-end developer who loves making websites. The repositories in here are mostly experiments.
 
 My skills include Hugo, Wordpress, Svelte.js and more. Ocassionaly, I use Pollen and Python for my personal projects. Please get in touch: thomas.rettig.11 [at] gmail.com
 ### My Github Stats
