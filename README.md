@@ -1,6 +1,6 @@
 <img alt="Welcome banner — Welcome to my Github profile"  title="Welcome to my Github profile" src="https://user-images.githubusercontent.com/68767503/138675448-b9c2555c-056e-423d-a7c9-69d2d40a47b1.png" style="width:600px;height:auto;">
 
-I’m a front-end developer who loves making websites. The repositories in here are mostly experiments.
+I’m a junior front-end developer who loves making websites. The repositories in here are mostly experiments.
 
 My primary skills include CSS, HTML, and Javascript. My favourite static site generators are Hugo, and Jekyll. Ocassionaly, I use Pollen and Python for my personal web projects, and Figma for prototyping. I live in Singapore. Please get in touch: thomas.rettig.11 [at] gmail.com
 
