@@ -1,13 +1,16 @@
-<img alt="Welcome banner — Welcome to my Github profile"  title="Welcome to my Github profile" src="https://user-images.githubusercontent.com/68767503/138675448-b9c2555c-056e-423d-a7c9-69d2d40a47b1.png" style="width:600px;height:auto;">
+# Hi, I’m Thomas!
+I’m a student by day and programmer by night.
+Interests:
+- Web design and development
+- Web frameworks
+- WebAssembly
+- Static Site Generators — mainly [Hugo](https://gohugo.io/)
+- Typography
+- Image, font, and text manipulation with code
+- Design automation
+- Cascading Style Sheets
+- Joke programming languages
 
-I’m a junior front-end developer who loves making websites. Beware — my repositories are mainly experimental; there's not much to see here :)
-
-<!--Github Statistics-->
-<!--Header--><img title="My Github stats" alt="Title — My Github Stats" src="https://user-images.githubusercontent.com/68767503/138676793-d7fe297f-57ee-4783-bead-9569829d5b13.png" style="width:500px;height:auto;">
-<!--stats--><img title="My Github Statistics" alt="Github Statistics" width="450px" src="https://github-readme-stats.vercel.app/api?username=thomasrettig&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight&border_radius=6px"/>
-<!--Top languages-->
-<!--Header--><img title="My top languages" alt="Title — My top languages" src="https://user-images.githubusercontent.com/68767503/138676056-cab6487a-5a41-4be2-8cec-6297701ce1bf.png" style="width:500px;height:auto;">
-<!--stats--><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasrettig&layout=compact">
-
-<hr>
-The typeface used for the headings is Codelia, one of my favourite monospaced typefaces, designed by Toshi Omagari: https://tosche.net/fonts/codelia
+<!-- haha not now
+<img title="My Github Statistics" alt="Github Statistics" width="450px" src="https://github-readme-stats.vercel.app/api?username=thomasrettig&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight&border_radius=6px"/>
+ -->
