@@ -6,10 +6,8 @@ Interests:
 - WebAssembly
 - Static Site Generators — mainly [Hugo](https://gohugo.io/)
 - Typography
-- Image, font, and text manipulation with code
-- Design automation
 - Cascading Style Sheets
-- Joke programming languages
+- Esoteric programming languages
 
 <!-- haha not now
 <img title="My Github Statistics" alt="Github Statistics" width="450px" src="https://github-readme-stats.vercel.app/api?username=thomasrettig&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight&border_radius=6px"/>
