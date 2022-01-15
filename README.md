@@ -1,6 +1,9 @@
+<img src="https://user-images.githubusercontent.com/68767503/149618251-9e818add-c7c3-45af-bd2d-f0121b06444d.png" alt="Hi! in large, red-colored text." style="width:100%;">
+
 # Hi, I’m Thomas!
 I’m a student by day and programmer by night.
 Interests:
+
 - Web design and development
 - Web frameworks
 - WebAssembly
