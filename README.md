@@ -12,5 +12,6 @@ Interests:
 - Cascading Style Sheets
 - Esoteric programming languages
 
+A brief visualisation of my Github activity:
 <img title="My Github Statistics" alt="Github Statistics" width="450px" src="https://github-readme-stats.vercel.app/api?username=thomasrettig&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight&border_radius=6px"/>
 
