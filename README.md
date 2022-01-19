@@ -5,7 +5,7 @@ I’m a student by day and programmer by night.
 Interests:
 
 - Web design and development
-- Web frameworks
+- React
 - WebAssembly
 - Static Site Generators — mainly [Hugo](https://gohugo.io/)
 - Typography
