@@ -2,6 +2,7 @@
 
 # Hi, I’m Thomas!
 I’m a student by day and programmer by night.
+
 Interests:
 
 - Web design and development
