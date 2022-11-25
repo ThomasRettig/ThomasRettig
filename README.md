@@ -1,9 +1,9 @@
 # Hi, I’m Thomas!
 I’m a student by day and programmer by night.
 
-## A brief visualisation of my Github activity:
+## A brief visualisation of my Github activity
 
-<img title="My Github Statistics" alt="Github Statistics" width="450px" src="https://github-readme-stats.vercel.app/api?username=thomasrettig&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight&border_radius=6px"/>
+<img title="My Github statistics" alt="Github statistics" width="450px" src="https://github-readme-stats.vercel.app/api?username=thomasrettig&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight&border_radius=6px"/>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
