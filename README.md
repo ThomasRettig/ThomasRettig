@@ -31,13 +31,14 @@ Sunday                   181 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     1 min               ████████████████████░░░░░   81.30 % 
+HTML                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Downloads                2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -53,5 +54,5 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2024 18:34:25 UTC
+ Last Updated on 15/03/2024 18:34:17 UTC
 <!--END_SECTION:waka-->
