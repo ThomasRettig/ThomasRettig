@@ -6,8 +6,6 @@ I’m a student by day and programmer by night.
 <img title="My Github statistics" alt="Github statistics" width="450px" src="https://github-readme-stats.vercel.app/api?username=thomasrettig&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight&border_radius=6px"/>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -61,5 +59,5 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:03:56 UTC
+ Last Updated on 28/07/2026 20:00:00 UTC
 <!--END_SECTION:waka-->
