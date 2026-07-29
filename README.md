@@ -6,6 +6,8 @@ I’m a student by day and programmer by night.
 <img title="My Github statistics" alt="Github statistics" width="450px" src="https://github-readme-stats.vercel.app/api?username=thomasrettig&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight&border_radius=6px"/>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -31,13 +33,13 @@ Sunday                   213 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Downloads                0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -59,5 +61,5 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:00:00 UTC
+ Last Updated on 29/07/2026 19:51:55 UTC
 <!--END_SECTION:waka-->
